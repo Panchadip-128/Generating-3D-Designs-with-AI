@@ -57,11 +57,9 @@ The GAN is trained over several epochs, and during training, both the generator 
 Sample generated voxel at epoch 100:
 
 ![smp1](https://github.com/user-attachments/assets/915a48cd-9065-47b0-b411-b2ddaecfb761)
-
 ![smp2](https://github.com/user-attachments/assets/70a5e97b-6386-4442-939b-8dd292bca64d)
 
 ![smp3](https://github.com/user-attachments/assets/19e8c32f-0964-4aba-9137-04a659e087fb)
-
 ![smp4](https://github.com/user-attachments/assets/ae853ddd-06a0-487c-83bc-2c331d33e123)
 
 ![smp5](https://github.com/user-attachments/assets/bc5d88e3-72f0-48ae-9031-eacedfa9b183)
