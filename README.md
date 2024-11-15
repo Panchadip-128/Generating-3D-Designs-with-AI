@@ -65,7 +65,7 @@ Sample generated voxel at epoch 100:
 
 ![smp5](https://github.com/user-attachments/assets/bc5d88e3-72f0-48ae-9031-eacedfa9b183)
 
-
+Each of the voxels represented by the output are unique and distinguishable from each other
 
 ## Future Improvements
 Implement Conditional GANs to generate voxel data conditioned on labels or classes.
