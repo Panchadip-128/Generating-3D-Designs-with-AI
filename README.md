@@ -1,5 +1,5 @@
 # 3D Voxel Data Generation using GANs:
---------------------------------------
+---------------------------------------
 
 
 This project implements a Generative Adversarial Networks framework (GAN) to generate 3D voxel data. The goal is to train a GAN to produce synthetic 3D voxel-based structures that resemble real-world data, allowing for data augmentation and analysis of generated AI samples.
